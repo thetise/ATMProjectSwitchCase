@@ -15,7 +15,7 @@ Merhaba, Kodluyoruz Bankasına Hoşgeldiniz! </br >
 3- Bakiye Sorgula </br >
 4- Çıkış Yap </br >
 Yapmak istediğiniz işlemin numarasını tuşlayınız: 1 </br >
-Yatımrak istediğiniz miktarı giriniz: 50 </br >
+Yatırmak istediğiniz miktarı giriniz: 50 </br >
 50 TL yatırıldıktan sonra mevcut bakiye: 200 </br >
 1- Para Yatırma </br >
 2- Para Çekme </br >
